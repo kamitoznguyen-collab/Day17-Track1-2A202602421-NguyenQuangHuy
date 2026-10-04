@@ -8,7 +8,7 @@
 |---|---|
 | MHV | 2A202602421 |
 | Họ tên | Nguyễn Quang Huy |
-| Tên nhóm | `[TODO: tên nhóm]` |
+| Tên nhóm | Tung Tung Tung Sahur |
 | Thành viên | Đỗ Lê Việt Anh (2A202602491), Nguyễn Thị Minh Khánh (2A202602546), Nguyễn Quang Huy (2A202602421), Lại Bá Quân (2A202602495) |
 | Case đã chọn | **A. AI Tutor – Diagnostic Refresher**: nút "Tôi vẫn chưa hiểu", AI chẩn đoán lỗ hổng rồi cho ôn lại khái niệm nền |
 | Đối tượng phỏng vấn | Người từng bị kẹt khi học trên VLearn trong 7 ngày gần đây |
