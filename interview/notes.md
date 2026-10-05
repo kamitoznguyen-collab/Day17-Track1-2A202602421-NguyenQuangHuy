@@ -1,23 +1,56 @@
-# Interview Record
+# Biên Bản Phỏng Vấn (Interview Notes)
 
-- **Mã người tham gia:** Học viên VLearn (Nam)
-- **Đúng tiêu chí tuyển:** Có
+## 1. Thông Tin Chung
+- **Chủ đề phỏng vấn:** AI Tutor: Diagnostic Refresher
+- **Học viên thực hiện:** Nguyễn Quang Huy
+- **Mã học viên:** 2A202602421
+- **Người được phỏng vấn:** Học viên VLearn (Nam, Khoá 3)
+- **File ghi âm đính kèm:** [`recording-link.md`](./recording-link.md)
+- **Ngày thực hiện:** 04/10/2026
+- **Thời lượng:** ~02 phút 58 giây
 
-## Ghi chép (Điều cần giữ lại)
+---
 
-**1. Câu chuyện gần nhất: user đang ở đâu và cố làm gì?**
-- **Tình huống:** Người học đang phải theo chương trình học cả ngày (2 buổi sáng chiều), khối lượng bài mới nhiều. Họ chỉ kịp xem qua slide và nghe giảng viên nói, chịu áp lực lớn về mặt thời gian phải hoàn thành bài kịp tiến độ.
+## 2. Mục Tiêu Buổi Phỏng Vấn
+- Khảo sát hành vi và khó khăn của người học khi gặp kiến thức chưa hiểu trên nền tảng VLearn.
+- Kiểm chứng giả thuyết: Người học bị kẹt chủ yếu vì thiếu kiến thức nền (H1) hay vì cách diễn đạt/công cụ không đủ tốt (H2).
+- Thu thập bằng chứng về workaround thật sự của người học khi không hiểu bài.
 
-**2. User đã thực sự làm gì?**
-- Tùy vào mức độ khó, họ copy đoạn nội dung (text) ném vào ChatGPT, hoặc cắt hình minh họa, chụp ảnh cả slide thả vào ChatGPT để yêu cầu giải thích.
+---
 
-**3. Khó khăn và workaround đã dùng:**
-- **Workaround:** Đẩy thẳng raw text hoặc ảnh nguyên slide vào ChatGPT.
-- **Khó khăn:** Không phải lúc nào AI cũng trả lời đúng ý. Nhiều khi ChatGPT trả lời lan man, một phần do người dùng không biết cách viết prompt rõ ràng (hoặc do bản thân người dùng chưa xác định được cốt lõi mình đang hổng phần nào để hỏi).
+## 3. Nội Dung Chi Tiết Buổi Phỏng Vấn (Q&A)
 
-**4. Hậu quả hoặc chi phí:**
-- Bị áp lực thời gian vì chương trình học rất nặng, việc AI trả lời không trúng đích khiến người học bối rối và tốn công xử lý. Tình trạng này diễn ra "khá thường xuyên", gần như ngày nào có bài học mới là ngày đó gặp vấn đề.
+### Phần A: Sàng Lọc & Hành Vi Học Tập Hiện Tại
+1. **Câu hỏi 1:** Trong 7 ngày qua, có lúc nào bạn học trên VLearn mà không hiểu một phần bài không?
+   - **Phản hồi:** Có, thường xuyên.
 
-**5. Điều bất ngờ, trái giả thuyết hoặc một exact quote:**
-- **Exact quote:** *"Thực ra cái này cũng tùy, có lúc nó trả lời đúng ý mình có lúc không... Có thể là do con chat trả lời hơi lan man, cũng có thể là do prompt của mình làm cho con AI clear, nên mình nghĩ là do cả 2."*
-- **Điểm đáng chú ý:** Người dùng tự nhận thức được việc ChatGPT trả lời lan man một phần là do cách họ giao tiếp (prompt) chưa tốt. Điều này cực kỳ ủng hộ cho Problem Hypothesis: Người dùng cần một AI (Tutor) **chủ động chẩn đoán** và mớm lời trước cho họ thay vì bắt họ tự nghĩ ra một câu lệnh hoàn hảo từ một cái đầu đang trống rỗng vì không hiểu bài.
+2. **Câu hỏi 2:** Anh giải quyết vấn đề này như thế nào?
+   - **Phản hồi:** Tùy từng mức. Có lúc copy content đó vào ChatGPT, có lúc cắt hình minh họa vào, có lúc chụp lại cả slide vào ChatGPT.
+
+3. **Câu hỏi 3:** Thế chụp vào xong anh có hiểu bài hơn không?
+   - **Phản hồi:** *"Thực ra cái này cũng tùy, có lúc nó trả lời đúng ý mình có lúc không."*
+
+### Phần B: Đào Sâu Nguyên Nhân
+4. **Câu hỏi 4:** Vậy nếu trả lời không đúng ý thì anh có ý thức được là do mình thiếu kiến thức hay là do ChatGPT trả lời bị khó hiểu không?
+   - **Phản hồi:** *"Có thể là do con chat trả lời hơi lan man, cũng có thể là do prompt của mình làm cho con AI [không] clear, nên mình nghĩ là do cả 2."*
+
+### Phần C: Áp Lực & Tần Suất
+5. **Câu hỏi 5:** Không hiểu bài thì anh có gặp áp lực nào không? Ví dụ như chương trình quá nhanh mà mình vẫn chưa hiểu?
+   - **Phản hồi:** *"Nay là ngày mình phải học cả ngày, phải học 2 buổi sáng chiều, nên phải xem cả 2 bài. Về mặt áp lực thì có. Chỉ xem qua và nghe họ nói thôi, nên cũng có áp lực về mặt thời gian."*
+
+6. **Câu hỏi 6:** Vậy tần suất mình gặp vấn đề này có nhiều không? Tính theo tuần đi.
+   - **Phản hồi:** *"Cũng khó nói nhưng cũng khá thường xuyên đấy."* *(Người phỏng vấn ghi chú: hôm nào cũng học bài mới nên ước tính là rất thường xuyên.)*
+
+---
+
+## 4. Tóm Tắt & Điểm Chính (Key Takeaways)
+- **Workaround thật sự:** Người học đẩy thẳng raw text, hình minh họa hoặc ảnh chụp slide nguyên vẹn vào ChatGPT — không phải cách dùng có chủ đích mà là cách nhanh nhất họ nghĩ đến.
+- **Điểm bất ngờ (trái H1):** Người học tự nhận thức rằng nguyên nhân ChatGPT trả lời không đúng ý là **do cả hai phía** — AI lan man lẫn prompt của họ chưa rõ. Điều này hỗ trợ H2: vấn đề không chỉ là hổng kiến thức nền mà còn là người dùng không biết cách đặt câu hỏi đúng trọng tâm.
+- **Yếu tố then chốt:** Áp lực thời gian (học 2 buổi/ngày, khối lượng bài lớn) khiến người học chỉ kịp "xem qua và nghe", không có thời gian đào sâu chỗ chưa hiểu.
+- **Tần suất:** Cao — gần như ngày nào có bài học mới là ngày đó gặp vấn đề.
+
+---
+
+## 5. Lỗi Interviewer Ghi Nhận (để cải thiện lần sau)
+- **Câu hỏi 4** mang tính mớm lời: đưa sẵn hai lựa chọn nguyên nhân ("thiếu kiến thức" vs "chat trả lời khó hiểu") thay vì để user tự gọi tên. → Sửa thành: *"Theo anh, vì sao ChatGPT lại trả lời không đúng ý anh lúc đó?"*
+- Phỏng vấn kết thúc sau ~3 phút, chưa khai thác được: lần cụ thể gần nhất kẹt bài nào, chi phí thời gian thực tế của từng lần xử lý, và liệu họ có khi nào bỏ qua hẳn không.
