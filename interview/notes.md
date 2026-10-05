@@ -4,7 +4,7 @@
 - **Chủ đề phỏng vấn:** AI Tutor: Diagnostic Refresher
 - **Học viên thực hiện:** Nguyễn Quang Huy
 - **Mã học viên:** 2A202602421
-- **Người được phỏng vấn:** Học viên VLearn (Nam, Khoá 3)
+- **Người được phỏng vấn:** Phạm Minh Hiếu (2A202602919)
 - **File ghi âm đính kèm:** [`recording-link.md`](./recording-link.md)
 - **Ngày thực hiện:** 04/10/2026
 - **Thời lượng:** ~02 phút 58 giây
